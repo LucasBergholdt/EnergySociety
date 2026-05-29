@@ -1,0 +1,2684 @@
+[
+  {
+    "round_num": 1,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1219
+  },
+  {
+    "round_num": 1,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 776
+  },
+  {
+    "round_num": 1,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 840
+  },
+  {
+    "round_num": 1,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1742
+  },
+  {
+    "round_num": 1,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 897
+  },
+  {
+    "round_num": 1,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1022
+  },
+  {
+    "round_num": 1,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1158
+  },
+  {
+    "round_num": 1,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 912
+  },
+  {
+    "round_num": 1,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1458
+  },
+  {
+    "round_num": 1,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 6161
+  },
+  {
+    "round_num": 1,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 620
+  },
+  {
+    "round_num": 1,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 130
+  },
+  {
+    "round_num": 1,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1514
+  },
+  {
+    "round_num": 1,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 1098
+  },
+  {
+    "round_num": 1,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 313
+  },
+  {
+    "round_num": 2,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1682
+  },
+  {
+    "round_num": 2,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1841
+  },
+  {
+    "round_num": 2,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1108
+  },
+  {
+    "round_num": 2,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4905
+  },
+  {
+    "round_num": 2,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 786
+  },
+  {
+    "round_num": 2,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1164
+  },
+  {
+    "round_num": 2,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 2519
+  },
+  {
+    "round_num": 2,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1364
+  },
+  {
+    "round_num": 2,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2443
+  },
+  {
+    "round_num": 2,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8201
+  },
+  {
+    "round_num": 2,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1551
+  },
+  {
+    "round_num": 2,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 544
+  },
+  {
+    "round_num": 2,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 577
+  },
+  {
+    "round_num": 2,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 777
+  },
+  {
+    "round_num": 2,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 4368
+  },
+  {
+    "round_num": 3,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1457
+  },
+  {
+    "round_num": 3,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1358
+  },
+  {
+    "round_num": 3,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 953
+  },
+  {
+    "round_num": 3,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1172
+  },
+  {
+    "round_num": 3,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 950
+  },
+  {
+    "round_num": 3,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1186
+  },
+  {
+    "round_num": 3,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 614
+  },
+  {
+    "round_num": 3,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 800
+  },
+  {
+    "round_num": 3,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 970
+  },
+  {
+    "round_num": 3,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8150
+  },
+  {
+    "round_num": 3,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 886
+  },
+  {
+    "round_num": 3,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 496
+  },
+  {
+    "round_num": 3,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 508
+  },
+  {
+    "round_num": 3,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 1586
+  },
+  {
+    "round_num": 3,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 492
+  },
+  {
+    "round_num": 4,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 3632
+  },
+  {
+    "round_num": 4,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1377
+  },
+  {
+    "round_num": 4,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1093
+  },
+  {
+    "round_num": 4,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3002
+  },
+  {
+    "round_num": 4,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1481
+  },
+  {
+    "round_num": 4,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1358
+  },
+  {
+    "round_num": 4,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 318
+  },
+  {
+    "round_num": 4,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 945
+  },
+  {
+    "round_num": 4,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 823
+  },
+  {
+    "round_num": 4,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 4414
+  },
+  {
+    "round_num": 4,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 628
+  },
+  {
+    "round_num": 4,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 1491
+  },
+  {
+    "round_num": 4,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 614
+  },
+  {
+    "round_num": 4,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 8021
+  },
+  {
+    "round_num": 4,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 5878
+  },
+  {
+    "round_num": 5,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1438
+  },
+  {
+    "round_num": 5,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1093
+  },
+  {
+    "round_num": 5,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 3855
+  },
+  {
+    "round_num": 5,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2700
+  },
+  {
+    "round_num": 5,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 5155
+  },
+  {
+    "round_num": 5,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1432
+  },
+  {
+    "round_num": 5,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 619
+  },
+  {
+    "round_num": 5,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 867
+  },
+  {
+    "round_num": 5,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1494
+  },
+  {
+    "round_num": 5,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8115
+  },
+  {
+    "round_num": 5,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 2504
+  },
+  {
+    "round_num": 5,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 801
+  },
+  {
+    "round_num": 5,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 498
+  },
+  {
+    "round_num": 5,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 618
+  },
+  {
+    "round_num": 5,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1978
+  },
+  {
+    "round_num": 6,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1837
+  },
+  {
+    "round_num": 6,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 5062
+  },
+  {
+    "round_num": 6,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1293
+  },
+  {
+    "round_num": 6,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4443
+  },
+  {
+    "round_num": 6,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 7854
+  },
+  {
+    "round_num": 6,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1239
+  },
+  {
+    "round_num": 6,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 422
+  },
+  {
+    "round_num": 6,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 885
+  },
+  {
+    "round_num": 6,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 3007
+  },
+  {
+    "round_num": 6,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 1103
+  },
+  {
+    "round_num": 6,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 676
+  },
+  {
+    "round_num": 6,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 3073
+  },
+  {
+    "round_num": 6,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 921
+  },
+  {
+    "round_num": 6,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2508
+  },
+  {
+    "round_num": 6,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 544
+  },
+  {
+    "round_num": 7,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1909
+  },
+  {
+    "round_num": 7,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1291
+  },
+  {
+    "round_num": 7,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1135
+  },
+  {
+    "round_num": 7,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2512
+  },
+  {
+    "round_num": 7,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 6597
+  },
+  {
+    "round_num": 7,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1385
+  },
+  {
+    "round_num": 7,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 583
+  },
+  {
+    "round_num": 7,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1612
+  },
+  {
+    "round_num": 7,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1567
+  },
+  {
+    "round_num": 7,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 1737
+  },
+  {
+    "round_num": 7,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 2440
+  },
+  {
+    "round_num": 7,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 3242
+  },
+  {
+    "round_num": 7,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 4532
+  },
+  {
+    "round_num": 7,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 4208
+  },
+  {
+    "round_num": 7,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 2403
+  },
+  {
+    "round_num": 8,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1614
+  },
+  {
+    "round_num": 8,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1027
+  },
+  {
+    "round_num": 8,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1141
+  },
+  {
+    "round_num": 8,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2670
+  },
+  {
+    "round_num": 8,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1257
+  },
+  {
+    "round_num": 8,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1464
+  },
+  {
+    "round_num": 8,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 537
+  },
+  {
+    "round_num": 8,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 6742
+  },
+  {
+    "round_num": 8,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2146
+  },
+  {
+    "round_num": 8,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 902
+  },
+  {
+    "round_num": 8,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 816
+  },
+  {
+    "round_num": 8,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 1148
+  },
+  {
+    "round_num": 8,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 508
+  },
+  {
+    "round_num": 8,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 7498
+  },
+  {
+    "round_num": 8,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 530
+  },
+  {
+    "round_num": 9,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1904
+  },
+  {
+    "round_num": 9,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1303
+  },
+  {
+    "round_num": 9,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 982
+  },
+  {
+    "round_num": 9,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1559
+  },
+  {
+    "round_num": 9,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 851
+  },
+  {
+    "round_num": 9,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1200
+  },
+  {
+    "round_num": 9,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 244
+  },
+  {
+    "round_num": 9,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1127
+  },
+  {
+    "round_num": 9,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1376
+  },
+  {
+    "round_num": 9,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 6449
+  },
+  {
+    "round_num": 9,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 701
+  },
+  {
+    "round_num": 9,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 264
+  },
+  {
+    "round_num": 9,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 392
+  },
+  {
+    "round_num": 9,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 3470
+  },
+  {
+    "round_num": 9,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 492
+  },
+  {
+    "round_num": 10,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1287
+  },
+  {
+    "round_num": 10,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 3760
+  },
+  {
+    "round_num": 10,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 2353
+  },
+  {
+    "round_num": 10,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1385
+  },
+  {
+    "round_num": 10,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 8273
+  },
+  {
+    "round_num": 10,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1652
+  },
+  {
+    "round_num": 10,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 481
+  },
+  {
+    "round_num": 10,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 938
+  },
+  {
+    "round_num": 10,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1604
+  },
+  {
+    "round_num": 10,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8259
+  },
+  {
+    "round_num": 10,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1479
+  },
+  {
+    "round_num": 10,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 1141
+  },
+  {
+    "round_num": 10,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 8021
+  },
+  {
+    "round_num": 10,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1135
+  },
+  {
+    "round_num": 11,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1742
+  },
+  {
+    "round_num": 11,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1974
+  },
+  {
+    "round_num": 11,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 2235
+  },
+  {
+    "round_num": 11,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3362
+  },
+  {
+    "round_num": 11,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 3663
+  },
+  {
+    "round_num": 11,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1198
+  },
+  {
+    "round_num": 11,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 710
+  },
+  {
+    "round_num": 11,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 881
+  },
+  {
+    "round_num": 11,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1143
+  },
+  {
+    "round_num": 11,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 5539
+  },
+  {
+    "round_num": 11,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1343
+  },
+  {
+    "round_num": 11,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 809
+  },
+  {
+    "round_num": 11,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 658
+  },
+  {
+    "round_num": 11,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2007
+  },
+  {
+    "round_num": 11,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1163
+  },
+  {
+    "round_num": 12,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1414
+  },
+  {
+    "round_num": 12,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1389
+  },
+  {
+    "round_num": 12,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1081
+  },
+  {
+    "round_num": 12,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1766
+  },
+  {
+    "round_num": 12,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1189
+  },
+  {
+    "round_num": 12,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1165
+  },
+  {
+    "round_num": 12,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 191
+  },
+  {
+    "round_num": 12,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 960
+  },
+  {
+    "round_num": 12,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 3369
+  },
+  {
+    "round_num": 12,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 3150
+  },
+  {
+    "round_num": 12,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 614
+  },
+  {
+    "round_num": 12,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 368
+  },
+  {
+    "round_num": 12,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 330
+  },
+  {
+    "round_num": 12,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 3479
+  },
+  {
+    "round_num": 13,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1679
+  },
+  {
+    "round_num": 13,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1423
+  },
+  {
+    "round_num": 13,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 4270
+  },
+  {
+    "round_num": 13,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4068
+  },
+  {
+    "round_num": 13,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 8513
+  },
+  {
+    "round_num": 13,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1304
+  },
+  {
+    "round_num": 13,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 851
+  },
+  {
+    "round_num": 13,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 939
+  },
+  {
+    "round_num": 13,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1182
+  },
+  {
+    "round_num": 13,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 864
+  },
+  {
+    "round_num": 13,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1071
+  },
+  {
+    "round_num": 13,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 306
+  },
+  {
+    "round_num": 13,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 639
+  },
+  {
+    "round_num": 13,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 365
+  },
+  {
+    "round_num": 13,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 503
+  },
+  {
+    "round_num": 14,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1577
+  },
+  {
+    "round_num": 14,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1166
+  },
+  {
+    "round_num": 14,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1561
+  },
+  {
+    "round_num": 14,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3103
+  },
+  {
+    "round_num": 14,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 2727
+  },
+  {
+    "round_num": 14,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1144
+  },
+  {
+    "round_num": 14,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 782
+  },
+  {
+    "round_num": 14,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 840
+  },
+  {
+    "round_num": 14,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2173
+  },
+  {
+    "round_num": 14,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8201
+  },
+  {
+    "round_num": 14,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 802
+  },
+  {
+    "round_num": 14,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 2094
+  },
+  {
+    "round_num": 14,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1427
+  },
+  {
+    "round_num": 14,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2076
+  },
+  {
+    "round_num": 14,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 581
+  },
+  {
+    "round_num": 15,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1733
+  },
+  {
+    "round_num": 15,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 895
+  },
+  {
+    "round_num": 15,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1243
+  },
+  {
+    "round_num": 15,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1807
+  },
+  {
+    "round_num": 15,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1217
+  },
+  {
+    "round_num": 15,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1046
+  },
+  {
+    "round_num": 15,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 320
+  },
+  {
+    "round_num": 15,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 928
+  },
+  {
+    "round_num": 15,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1110
+  },
+  {
+    "round_num": 15,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 2020
+  },
+  {
+    "round_num": 15,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 2699
+  },
+  {
+    "round_num": 15,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 1541
+  },
+  {
+    "round_num": 15,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 582
+  },
+  {
+    "round_num": 15,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 3486
+  },
+  {
+    "round_num": 15,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 510
+  },
+  {
+    "round_num": 16,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1710
+  },
+  {
+    "round_num": 16,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1206
+  },
+  {
+    "round_num": 16,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1306
+  },
+  {
+    "round_num": 16,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2330
+  },
+  {
+    "round_num": 16,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 865
+  },
+  {
+    "round_num": 16,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1296
+  },
+  {
+    "round_num": 16,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 747
+  },
+  {
+    "round_num": 16,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 832
+  },
+  {
+    "round_num": 16,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1706
+  },
+  {
+    "round_num": 16,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 6402
+  },
+  {
+    "round_num": 16,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1104
+  },
+  {
+    "round_num": 16,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 311
+  },
+  {
+    "round_num": 16,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1733
+  },
+  {
+    "round_num": 16,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 351
+  },
+  {
+    "round_num": 16,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 5085
+  },
+  {
+    "round_num": 17,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1608
+  },
+  {
+    "round_num": 17,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1096
+  },
+  {
+    "round_num": 17,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 928
+  },
+  {
+    "round_num": 17,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2182
+  },
+  {
+    "round_num": 17,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 7724
+  },
+  {
+    "round_num": 17,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 970
+  },
+  {
+    "round_num": 17,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 4040
+  },
+  {
+    "round_num": 17,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1121
+  },
+  {
+    "round_num": 17,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1619
+  },
+  {
+    "round_num": 17,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8187
+  },
+  {
+    "round_num": 17,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 452
+  },
+  {
+    "round_num": 17,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 919
+  },
+  {
+    "round_num": 17,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 455
+  },
+  {
+    "round_num": 17,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2472
+  },
+  {
+    "round_num": 17,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 473
+  },
+  {
+    "round_num": 18,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1360
+  },
+  {
+    "round_num": 18,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1237
+  },
+  {
+    "round_num": 18,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 890
+  },
+  {
+    "round_num": 18,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2204
+  },
+  {
+    "round_num": 18,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 8216
+  },
+  {
+    "round_num": 18,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1383
+  },
+  {
+    "round_num": 18,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 759
+  },
+  {
+    "round_num": 18,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 5023
+  },
+  {
+    "round_num": 18,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1842
+  },
+  {
+    "round_num": 18,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 7934
+  },
+  {
+    "round_num": 18,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 2110
+  },
+  {
+    "round_num": 18,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 526
+  },
+  {
+    "round_num": 18,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 822
+  },
+  {
+    "round_num": 18,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 1651
+  },
+  {
+    "round_num": 18,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 616
+  },
+  {
+    "round_num": 19,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1806
+  },
+  {
+    "round_num": 19,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1557
+  },
+  {
+    "round_num": 19,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1058
+  },
+  {
+    "round_num": 19,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2409
+  },
+  {
+    "round_num": 19,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 3570
+  },
+  {
+    "round_num": 19,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1418
+  },
+  {
+    "round_num": 19,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 391
+  },
+  {
+    "round_num": 19,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1279
+  },
+  {
+    "round_num": 19,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 714
+  },
+  {
+    "round_num": 19,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 0
+  },
+  {
+    "round_num": 19,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1020
+  },
+  {
+    "round_num": 19,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 237
+  },
+  {
+    "round_num": 19,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1352
+  },
+  {
+    "round_num": 19,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2814
+  },
+  {
+    "round_num": 20,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1933
+  },
+  {
+    "round_num": 20,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1466
+  },
+  {
+    "round_num": 20,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 936
+  },
+  {
+    "round_num": 20,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2514
+  },
+  {
+    "round_num": 20,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1024
+  },
+  {
+    "round_num": 20,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1121
+  },
+  {
+    "round_num": 20,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1281
+  },
+  {
+    "round_num": 20,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1205
+  },
+  {
+    "round_num": 20,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1141
+  },
+  {
+    "round_num": 20,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8223
+  },
+  {
+    "round_num": 20,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1175
+  },
+  {
+    "round_num": 20,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 511
+  },
+  {
+    "round_num": 20,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1877
+  },
+  {
+    "round_num": 20,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 5649
+  },
+  {
+    "round_num": 20,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1320
+  },
+  {
+    "round_num": 21,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1516
+  },
+  {
+    "round_num": 21,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1445
+  },
+  {
+    "round_num": 21,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 931
+  },
+  {
+    "round_num": 21,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3410
+  },
+  {
+    "round_num": 21,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 870
+  },
+  {
+    "round_num": 21,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1033
+  },
+  {
+    "round_num": 21,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 636
+  },
+  {
+    "round_num": 21,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1044
+  },
+  {
+    "round_num": 21,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1724
+  },
+  {
+    "round_num": 21,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 919
+  },
+  {
+    "round_num": 21,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 852
+  },
+  {
+    "round_num": 21,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 2144
+  },
+  {
+    "round_num": 21,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 5616
+  },
+  {
+    "round_num": 21,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 299
+  },
+  {
+    "round_num": 21,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1432
+  },
+  {
+    "round_num": 22,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1794
+  },
+  {
+    "round_num": 22,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1331
+  },
+  {
+    "round_num": 22,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1089
+  },
+  {
+    "round_num": 22,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3656
+  },
+  {
+    "round_num": 22,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 911
+  },
+  {
+    "round_num": 22,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1309
+  },
+  {
+    "round_num": 22,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 608
+  },
+  {
+    "round_num": 22,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 5324
+  },
+  {
+    "round_num": 22,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2422
+  },
+  {
+    "round_num": 22,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8225
+  },
+  {
+    "round_num": 22,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1382
+  },
+  {
+    "round_num": 22,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 1039
+  },
+  {
+    "round_num": 22,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 471
+  },
+  {
+    "round_num": 22,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 3739
+  },
+  {
+    "round_num": 22,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 5781
+  },
+  {
+    "round_num": 23,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 2198
+  },
+  {
+    "round_num": 23,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1637
+  },
+  {
+    "round_num": 23,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1150
+  },
+  {
+    "round_num": 23,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1712
+  },
+  {
+    "round_num": 23,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 8489
+  },
+  {
+    "round_num": 23,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1323
+  },
+  {
+    "round_num": 23,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1356
+  },
+  {
+    "round_num": 23,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 8140
+  },
+  {
+    "round_num": 23,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2163
+  },
+  {
+    "round_num": 23,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8205
+  },
+  {
+    "round_num": 23,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1041
+  },
+  {
+    "round_num": 23,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 182
+  },
+  {
+    "round_num": 23,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 623
+  },
+  {
+    "round_num": 23,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 931
+  },
+  {
+    "round_num": 23,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 534
+  },
+  {
+    "round_num": 24,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1745
+  },
+  {
+    "round_num": 24,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1289
+  },
+  {
+    "round_num": 24,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 898
+  },
+  {
+    "round_num": 24,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 1610
+  },
+  {
+    "round_num": 24,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1265
+  },
+  {
+    "round_num": 24,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1359
+  },
+  {
+    "round_num": 24,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 4504
+  },
+  {
+    "round_num": 24,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1284
+  },
+  {
+    "round_num": 24,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2328
+  },
+  {
+    "round_num": 24,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 6459
+  },
+  {
+    "round_num": 24,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 883
+  },
+  {
+    "round_num": 24,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 487
+  },
+  {
+    "round_num": 24,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 667
+  },
+  {
+    "round_num": 24,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 502
+  },
+  {
+    "round_num": 24,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 423
+  },
+  {
+    "round_num": 25,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1499
+  },
+  {
+    "round_num": 25,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 948
+  },
+  {
+    "round_num": 25,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1765
+  },
+  {
+    "round_num": 25,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3360
+  },
+  {
+    "round_num": 25,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 8351
+  },
+  {
+    "round_num": 25,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1522
+  },
+  {
+    "round_num": 25,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1598
+  },
+  {
+    "round_num": 25,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 754
+  },
+  {
+    "round_num": 25,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 3144
+  },
+  {
+    "round_num": 25,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 6782
+  },
+  {
+    "round_num": 25,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1595
+  },
+  {
+    "round_num": 25,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 448
+  },
+  {
+    "round_num": 25,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1038
+  },
+  {
+    "round_num": 25,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 568
+  },
+  {
+    "round_num": 25,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 539
+  },
+  {
+    "round_num": 26,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1621
+  },
+  {
+    "round_num": 26,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1501
+  },
+  {
+    "round_num": 26,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1309
+  },
+  {
+    "round_num": 26,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4388
+  },
+  {
+    "round_num": 26,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 872
+  },
+  {
+    "round_num": 26,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1603
+  },
+  {
+    "round_num": 26,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 715
+  },
+  {
+    "round_num": 26,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 821
+  },
+  {
+    "round_num": 26,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 916
+  },
+  {
+    "round_num": 26,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8112
+  },
+  {
+    "round_num": 26,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1866
+  },
+  {
+    "round_num": 26,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 92
+  },
+  {
+    "round_num": 26,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1711
+  },
+  {
+    "round_num": 26,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 1014
+  },
+  {
+    "round_num": 26,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1322
+  },
+  {
+    "round_num": 27,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1780
+  },
+  {
+    "round_num": 27,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1250
+  },
+  {
+    "round_num": 27,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1669
+  },
+  {
+    "round_num": 27,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4091
+  },
+  {
+    "round_num": 27,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 4097
+  },
+  {
+    "round_num": 27,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1295
+  },
+  {
+    "round_num": 27,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 299
+  },
+  {
+    "round_num": 27,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 2715
+  },
+  {
+    "round_num": 27,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2267
+  },
+  {
+    "round_num": 27,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8261
+  },
+  {
+    "round_num": 27,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 1932
+  },
+  {
+    "round_num": 27,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 430
+  },
+  {
+    "round_num": 27,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 1764
+  },
+  {
+    "round_num": 27,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 2923
+  },
+  {
+    "round_num": 27,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 619
+  },
+  {
+    "round_num": 28,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1903
+  },
+  {
+    "round_num": 28,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1225
+  },
+  {
+    "round_num": 28,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 824
+  },
+  {
+    "round_num": 28,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 3958
+  },
+  {
+    "round_num": 28,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1297
+  },
+  {
+    "round_num": 28,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1763
+  },
+  {
+    "round_num": 28,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 792
+  },
+  {
+    "round_num": 28,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 697
+  },
+  {
+    "round_num": 28,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2193
+  },
+  {
+    "round_num": 28,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 7605
+  },
+  {
+    "round_num": 28,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 730
+  },
+  {
+    "round_num": 28,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 163
+  },
+  {
+    "round_num": 28,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 2075
+  },
+  {
+    "round_num": 28,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 3851
+  },
+  {
+    "round_num": 28,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1627
+  },
+  {
+    "round_num": 29,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1631
+  },
+  {
+    "round_num": 29,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1996
+  },
+  {
+    "round_num": 29,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 1115
+  },
+  {
+    "round_num": 29,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 4515
+  },
+  {
+    "round_num": 29,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1519
+  },
+  {
+    "round_num": 29,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 1278
+  },
+  {
+    "round_num": 29,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1080
+  },
+  {
+    "round_num": 29,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 1010
+  },
+  {
+    "round_num": 29,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 1611
+  },
+  {
+    "round_num": 29,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 5481
+  },
+  {
+    "round_num": 29,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 625
+  },
+  {
+    "round_num": 29,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 511
+  },
+  {
+    "round_num": 29,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 596
+  },
+  {
+    "round_num": 29,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 11208
+  },
+  {
+    "round_num": 29,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 4940
+  },
+  {
+    "round_num": 30,
+    "phase": "vote",
+    "agent_id": "agent_1",
+    "output_tokens": 1745
+  },
+  {
+    "round_num": 30,
+    "phase": "vote",
+    "agent_id": "agent_2",
+    "output_tokens": 1320
+  },
+  {
+    "round_num": 30,
+    "phase": "vote",
+    "agent_id": "agent_3",
+    "output_tokens": 861
+  },
+  {
+    "round_num": 30,
+    "phase": "vote",
+    "agent_id": "agent_4",
+    "output_tokens": 2341
+  },
+  {
+    "round_num": 30,
+    "phase": "vote",
+    "agent_id": "agent_5",
+    "output_tokens": 1437
+  },
+  {
+    "round_num": 30,
+    "phase": "decide",
+    "agent_id": "agent_1",
+    "output_tokens": 754
+  },
+  {
+    "round_num": 30,
+    "phase": "decide",
+    "agent_id": "agent_2",
+    "output_tokens": 1764
+  },
+  {
+    "round_num": 30,
+    "phase": "decide",
+    "agent_id": "agent_3",
+    "output_tokens": 741
+  },
+  {
+    "round_num": 30,
+    "phase": "decide",
+    "agent_id": "agent_4",
+    "output_tokens": 2016
+  },
+  {
+    "round_num": 30,
+    "phase": "decide",
+    "agent_id": "agent_5",
+    "output_tokens": 8200
+  },
+  {
+    "round_num": 30,
+    "phase": "act",
+    "agent_id": "agent_1",
+    "output_tokens": 3950
+  },
+  {
+    "round_num": 30,
+    "phase": "act",
+    "agent_id": "agent_2",
+    "output_tokens": 266
+  },
+  {
+    "round_num": 30,
+    "phase": "act",
+    "agent_id": "agent_3",
+    "output_tokens": 846
+  },
+  {
+    "round_num": 30,
+    "phase": "act",
+    "agent_id": "agent_4",
+    "output_tokens": 593
+  },
+  {
+    "round_num": 30,
+    "phase": "act",
+    "agent_id": "agent_5",
+    "output_tokens": 1375
+  }
+]

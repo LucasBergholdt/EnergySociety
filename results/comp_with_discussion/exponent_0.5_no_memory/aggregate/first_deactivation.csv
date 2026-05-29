@@ -1,0 +1,6 @@
+agent_id,model_name,deactivation_rate,n_runs
+agent_1,gemma4:e4b,0.2,5
+agent_2,nemotron-3-nano:4b,0.0,5
+agent_3,qwen3.5:4b,0.0,5
+agent_4,qwen3:8b,0.8,5
+agent_5,qwen3.5:9b,1.0,5

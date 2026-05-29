@@ -1,0 +1,5 @@
+agent_id,model_name,avg_donations_received,std_donations_received,total_donations_received,avg_energy_received_per_run,total_energy_received,n_runs
+agent_2,nemotron-3-nano:4b,1.0,,1,200.0,200.0,1
+agent_3,qwen3.5:4b,3.0,,3,539.55,539.55,1
+agent_4,qwen3:8b,5.6,3.5777087639996634,28,1460.2,7301.0,5
+agent_5,qwen3.5:9b,6.2,3.1937438845342623,31,1022.03,5110.15,5

@@ -1,0 +1,17 @@
+voter_agent_id,voter_model_name,target_type,recommended_action,enacted_recommendations,avg_actual_net_energy,total_actual_net_energy
+agent_1,gemma4:e4b,other,ATTEMPT_JOB,143,-17.417202797202798,-2490.66
+agent_1,gemma4:e4b,other,IDLE,2,-203.31,-406.62
+agent_1,gemma4:e4b,self,ATTEMPT_JOB,100,44.7038,4470.38
+agent_2,nemotron-3-nano:4b,other,ATTEMPT_JOB,51,21.347254901960785,1088.71
+agent_2,nemotron-3-nano:4b,other,IDLE,3,-181.0533333333333,-543.16
+agent_2,nemotron-3-nano:4b,self,ATTEMPT_JOB,60,62.54433333333334,3752.6600000000003
+agent_2,nemotron-3-nano:4b,self,IDLE,4,-99.9925,-399.97
+agent_3,qwen3.5:4b,other,ATTEMPT_JOB,105,-23.948571428571427,-2514.6
+agent_3,qwen3.5:4b,other,IDLE,4,-151.19,-604.76
+agent_3,qwen3.5:4b,self,ATTEMPT_JOB,73,33.53123287671232,2447.7799999999997
+agent_4,qwen3:8b,other,ATTEMPT_JOB,39,-8.492820512820517,-331.22000000000014
+agent_4,qwen3:8b,other,IDLE,1,-210.0,-210.0
+agent_4,qwen3:8b,self,ATTEMPT_JOB,31,-124.80225806451612,-3868.87
+agent_5,qwen3.5:9b,other,ATTEMPT_JOB,16,12.007499999999997,192.11999999999995
+agent_5,qwen3.5:9b,self,ATTEMPT_JOB,10,-68.116,-681.16
+agent_5,qwen3.5:9b,self,IDLE,1,-664.25,-664.25

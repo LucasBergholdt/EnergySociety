@@ -1,0 +1,11 @@
+agent_id,model_name,action,count,avg_count_per_run,avg_frequency_per_run,n_runs
+agent_1,gemma4:e4b,ATTEMPT_JOB,145.0,29.0,0.9666666666666666,5
+agent_1,gemma4:e4b,IDLE,5.0,1.0,0.03333333333333333,5
+agent_2,nemotron-3-nano:4b,ATTEMPT_JOB,150.0,30.0,1.0,5
+agent_2,nemotron-3-nano:4b,IDLE,0.0,0.0,0.0,5
+agent_3,qwen3.5:4b,ATTEMPT_JOB,149.0,29.8,0.9933333333333334,5
+agent_3,qwen3.5:4b,IDLE,1.0,0.2,0.006666666666666666,5
+agent_4,qwen3:8b,ATTEMPT_JOB,150.0,30.0,1.0,5
+agent_4,qwen3:8b,IDLE,0.0,0.0,0.0,5
+agent_5,qwen3.5:9b,ATTEMPT_JOB,146.0,29.2,0.9733333333333334,5
+agent_5,qwen3.5:9b,IDLE,4.0,0.8,0.026666666666666665,5

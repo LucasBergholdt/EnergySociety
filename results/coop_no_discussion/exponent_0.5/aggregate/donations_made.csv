@@ -1,0 +1,5 @@
+agent_id,model_name,avg_donations_made,std_donations_made,total_donations_made,avg_energy_donated_per_run,std_energy_donated_per_run,total_energy_donated,avg_energy_per_donation,std_energy_per_donation,n_runs
+agent_1,gemma4:e4b,4.0,1.5811388300841898,20,1794.8260000000002,970.0027584393769,8974.130000000001,434.9652,100.00857435284682,5
+agent_2,nemotron-3-nano:4b,1.0,0.0,2,100.0,0.0,200.0,100.0,0.0,2
+agent_3,qwen3.5:4b,1.5,0.7071067811865476,3,225.0,35.35533905932738,450.0,175.0,106.06601717798213,2
+agent_4,qwen3:8b,1.0,0.0,2,300.0,282.842712474619,600.0,300.0,282.842712474619,2

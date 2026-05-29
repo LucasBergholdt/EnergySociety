@@ -1,0 +1,6 @@
+run_id,run_dir,experiment,seed,max_rounds,num_jobs,model_size_exponent,prompt_mode,use_votes,enable_sabotage
+run_1,C:\Users\Lucas\Desktop\Bachelor_final\NEWEST_RESULTS\comp_with_discussion\exponent_0.0\run_1,comp_with_discussion,12345,30,12,0.0,,,
+run_2,C:\Users\Lucas\Desktop\Bachelor_final\NEWEST_RESULTS\comp_with_discussion\exponent_0.0\run_2,comp_with_discussion,19284,30,12,0.0,,,
+run_3,C:\Users\Lucas\Desktop\Bachelor_final\NEWEST_RESULTS\comp_with_discussion\exponent_0.0\run_3,comp_with_discussion,47309,30,12,0.0,,,
+run_4,C:\Users\Lucas\Desktop\Bachelor_final\NEWEST_RESULTS\comp_with_discussion\exponent_0.0\run_4,comp_with_discussion,98765,30,12,0.0,,,
+run_5,C:\Users\Lucas\Desktop\Bachelor_final\NEWEST_RESULTS\comp_with_discussion\exponent_0.0\run_5,comp_with_discussion,42,30,12,0.0,,,

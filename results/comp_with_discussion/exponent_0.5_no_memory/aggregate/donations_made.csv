@@ -1,0 +1,2 @@
+agent_id,model_name,avg_donations_made,std_donations_made,total_donations_made,avg_energy_donated_per_run,std_energy_donated_per_run,total_energy_donated,avg_energy_per_donation,std_energy_per_donation,n_runs
+agent_3,qwen3.5:4b,1.0,,1,100.0,,100.0,100.0,,1

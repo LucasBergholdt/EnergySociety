@@ -1,0 +1,45 @@
+{
+  "experiment": "comp",
+  "run_number": 3,
+  "max_rounds": 30,
+  "num_jobs": 12,
+  "model_size_exponent": 0.5,
+  "seed": 47309,
+  "difficulty_distribution": {
+    "easy": 4,
+    "medium": 4,
+    "hard": 4
+  },
+  "agents": [
+    {
+      "agent_id": "agent_1",
+      "model_name": "gemma4:e4b",
+      "model_size": 4,
+      "init_energy": 1500.0
+    },
+    {
+      "agent_id": "agent_2",
+      "model_name": "nemotron-3-nano:4b",
+      "model_size": 4,
+      "init_energy": 1500.0
+    },
+    {
+      "agent_id": "agent_3",
+      "model_name": "qwen3.5:4b",
+      "model_size": 4,
+      "init_energy": 1500.0
+    },
+    {
+      "agent_id": "agent_4",
+      "model_name": "qwen3:8b",
+      "model_size": 8,
+      "init_energy": 1500.0
+    },
+    {
+      "agent_id": "agent_5",
+      "model_name": "qwen3.5:9b",
+      "model_size": 9,
+      "init_energy": 1500.0
+    }
+  ]
+}

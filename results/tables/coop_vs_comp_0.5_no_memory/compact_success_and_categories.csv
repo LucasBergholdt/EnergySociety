@@ -1,0 +1,11 @@
+experiment,agent_id,model_name,easy,medium,hard
+comp,agent_1,gemma4:e4b,67% ± 58%,62% ± 26%,23% ± 10%
+comp,agent_2,nemotron-3-nano:4b,59% ± 18%,45% ± 10%,18% ± 11%
+comp,agent_3,qwen3.5:4b,68% ± 20%,59% ± 24%,15% ± 10%
+comp,agent_4,qwen3:8b,94% ± 12%,71% ± 25%,19% ± 18%
+comp,agent_5,qwen3.5:9b,47% ± 30%,48% ± 29%,12% ± 25%
+coop,agent_1,gemma4:e4b,50% ± 71%,43% ± 32%,22% ± 16%
+coop,agent_2,nemotron-3-nano:4b,68% ± 47%,36% ± 25%,10% ± 10%
+coop,agent_3,qwen3.5:4b,83% ± 26%,31% ± 18%,15% ± 14%
+coop,agent_4,qwen3:8b,62% ± 18%,57% ± 31%,16% ± 16%
+coop,agent_5,qwen3.5:9b,56% ± 36%,55% ± 36%,8% ± 17%

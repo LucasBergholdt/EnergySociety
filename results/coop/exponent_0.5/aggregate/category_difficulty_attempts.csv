@@ -1,0 +1,153 @@
+agent_id,model_name,job_category,job_difficulty,total_attempts,avg_count_per_run,std_count_per_run,n_runs
+agent_1,gemma4:e4b,biology,hard,2,2.0,,1
+agent_1,gemma4:e4b,business,easy,2,1.0,0.0,2
+agent_1,gemma4:e4b,business,hard,4,2.0,0.0,2
+agent_1,gemma4:e4b,business,medium,2,1.0,0.0,2
+agent_1,gemma4:e4b,chemistry,hard,7,2.3333333333333335,1.1547005383792517,3
+agent_1,gemma4:e4b,chemistry,medium,1,1.0,,1
+agent_1,gemma4:e4b,computer science,easy,1,1.0,,1
+agent_1,gemma4:e4b,computer science,hard,2,1.0,0.0,2
+agent_1,gemma4:e4b,computer science,medium,1,1.0,,1
+agent_1,gemma4:e4b,economics,hard,8,2.6666666666666665,1.1547005383792515,3
+agent_1,gemma4:e4b,economics,medium,3,3.0,,1
+agent_1,gemma4:e4b,engineering,easy,1,1.0,,1
+agent_1,gemma4:e4b,engineering,hard,1,1.0,,1
+agent_1,gemma4:e4b,engineering,medium,2,1.0,0.0,2
+agent_1,gemma4:e4b,health,hard,3,1.5,0.7071067811865476,2
+agent_1,gemma4:e4b,history,hard,6,2.0,1.0,3
+agent_1,gemma4:e4b,history,medium,1,1.0,,1
+agent_1,gemma4:e4b,law,easy,1,1.0,,1
+agent_1,gemma4:e4b,law,hard,6,1.5,1.0,4
+agent_1,gemma4:e4b,law,medium,1,1.0,,1
+agent_1,gemma4:e4b,math,easy,1,1.0,,1
+agent_1,gemma4:e4b,math,hard,2,1.0,0.0,2
+agent_1,gemma4:e4b,math,medium,2,1.0,0.0,2
+agent_1,gemma4:e4b,philosophy,hard,7,1.75,0.9574271077563381,4
+agent_1,gemma4:e4b,physics,easy,1,1.0,,1
+agent_1,gemma4:e4b,physics,hard,8,2.6666666666666665,2.0816659994661326,3
+agent_1,gemma4:e4b,physics,medium,1,1.0,,1
+agent_1,gemma4:e4b,psychology,easy,2,2.0,,1
+agent_1,gemma4:e4b,psychology,hard,3,1.5,0.7071067811865476,2
+agent_2,nemotron-3-nano:4b,biology,easy,5,1.6666666666666667,0.5773502691896257,3
+agent_2,nemotron-3-nano:4b,biology,hard,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,biology,medium,5,2.5,0.7071067811865476,2
+agent_2,nemotron-3-nano:4b,business,easy,1,1.0,,1
+agent_2,nemotron-3-nano:4b,business,hard,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,business,medium,4,1.3333333333333333,0.5773502691896258,3
+agent_2,nemotron-3-nano:4b,chemistry,easy,1,1.0,,1
+agent_2,nemotron-3-nano:4b,chemistry,hard,5,1.6666666666666667,0.5773502691896258,3
+agent_2,nemotron-3-nano:4b,chemistry,medium,2,2.0,,1
+agent_2,nemotron-3-nano:4b,computer science,easy,3,1.0,0.0,3
+agent_2,nemotron-3-nano:4b,computer science,hard,4,1.0,0.0,4
+agent_2,nemotron-3-nano:4b,computer science,medium,9,1.8,1.3038404810405297,5
+agent_2,nemotron-3-nano:4b,economics,hard,4,1.3333333333333333,0.5773502691896257,3
+agent_2,nemotron-3-nano:4b,economics,medium,7,2.3333333333333335,1.5275252316519465,3
+agent_2,nemotron-3-nano:4b,engineering,easy,3,1.5,0.7071067811865476,2
+agent_2,nemotron-3-nano:4b,engineering,hard,4,1.3333333333333333,0.5773502691896257,3
+agent_2,nemotron-3-nano:4b,engineering,medium,6,2.0,1.0,3
+agent_2,nemotron-3-nano:4b,health,easy,3,1.5,0.7071067811865476,2
+agent_2,nemotron-3-nano:4b,health,hard,3,1.0,0.0,3
+agent_2,nemotron-3-nano:4b,health,medium,4,1.3333333333333333,0.5773502691896257,3
+agent_2,nemotron-3-nano:4b,history,easy,3,1.0,0.0,3
+agent_2,nemotron-3-nano:4b,history,hard,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,history,medium,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,law,easy,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,law,hard,6,2.0,1.0,3
+agent_2,nemotron-3-nano:4b,law,medium,8,2.0,0.816496580927726,4
+agent_2,nemotron-3-nano:4b,math,easy,5,1.25,0.5,4
+agent_2,nemotron-3-nano:4b,math,hard,6,2.0,1.0,3
+agent_2,nemotron-3-nano:4b,math,medium,5,1.6666666666666667,1.1547005383792517,3
+agent_2,nemotron-3-nano:4b,philosophy,hard,2,1.0,0.0,2
+agent_2,nemotron-3-nano:4b,philosophy,medium,3,1.0,0.0,3
+agent_2,nemotron-3-nano:4b,physics,easy,3,3.0,,1
+agent_2,nemotron-3-nano:4b,physics,hard,9,2.25,1.2583057392117916,4
+agent_2,nemotron-3-nano:4b,physics,medium,4,1.3333333333333333,0.5773502691896257,3
+agent_2,nemotron-3-nano:4b,psychology,easy,3,1.0,0.0,3
+agent_2,nemotron-3-nano:4b,psychology,medium,5,1.25,0.5,4
+agent_3,qwen3.5:4b,biology,easy,8,2.0,0.816496580927726,4
+agent_3,qwen3.5:4b,biology,hard,2,1.0,0.0,2
+agent_3,qwen3.5:4b,biology,medium,2,1.0,0.0,2
+agent_3,qwen3.5:4b,business,easy,1,1.0,,1
+agent_3,qwen3.5:4b,business,hard,2,2.0,,1
+agent_3,qwen3.5:4b,business,medium,3,1.5,0.7071067811865476,2
+agent_3,qwen3.5:4b,chemistry,easy,2,1.0,0.0,2
+agent_3,qwen3.5:4b,chemistry,medium,2,1.0,0.0,2
+agent_3,qwen3.5:4b,computer science,easy,3,1.0,0.0,3
+agent_3,qwen3.5:4b,computer science,hard,1,1.0,,1
+agent_3,qwen3.5:4b,computer science,medium,5,1.6666666666666667,1.1547005383792517,3
+agent_3,qwen3.5:4b,economics,easy,3,1.0,0.0,3
+agent_3,qwen3.5:4b,economics,hard,4,2.0,0.0,2
+agent_3,qwen3.5:4b,economics,medium,5,1.6666666666666667,1.1547005383792517,3
+agent_3,qwen3.5:4b,engineering,easy,4,1.3333333333333333,0.5773502691896257,3
+agent_3,qwen3.5:4b,engineering,hard,1,1.0,,1
+agent_3,qwen3.5:4b,engineering,medium,4,2.0,1.4142135623730951,2
+agent_3,qwen3.5:4b,health,easy,1,1.0,,1
+agent_3,qwen3.5:4b,health,hard,2,1.0,0.0,2
+agent_3,qwen3.5:4b,health,medium,3,1.5,0.7071067811865476,2
+agent_3,qwen3.5:4b,history,easy,2,1.0,0.0,2
+agent_3,qwen3.5:4b,history,hard,4,2.0,1.4142135623730951,2
+agent_3,qwen3.5:4b,history,medium,3,1.0,0.0,3
+agent_3,qwen3.5:4b,law,easy,3,1.0,0.0,3
+agent_3,qwen3.5:4b,law,hard,5,1.25,0.5,4
+agent_3,qwen3.5:4b,math,easy,3,1.5,0.7071067811865476,2
+agent_3,qwen3.5:4b,math,hard,4,1.3333333333333333,0.5773502691896258,3
+agent_3,qwen3.5:4b,math,medium,8,1.6,0.8944271909999159,5
+agent_3,qwen3.5:4b,philosophy,easy,1,1.0,,1
+agent_3,qwen3.5:4b,philosophy,hard,3,1.5,0.7071067811865476,2
+agent_3,qwen3.5:4b,philosophy,medium,3,1.5,0.7071067811865476,2
+agent_3,qwen3.5:4b,physics,easy,7,1.4,0.8944271909999159,5
+agent_3,qwen3.5:4b,physics,hard,3,1.0,0.0,3
+agent_3,qwen3.5:4b,physics,medium,6,1.5,0.5773502691896257,4
+agent_3,qwen3.5:4b,psychology,easy,6,1.5,0.5773502691896257,4
+agent_3,qwen3.5:4b,psychology,hard,4,1.3333333333333333,0.5773502691896257,3
+agent_3,qwen3.5:4b,psychology,medium,6,1.5,0.5773502691896257,4
+agent_4,qwen3:8b,biology,easy,1,1.0,,1
+agent_4,qwen3:8b,biology,hard,2,1.0,0.0,2
+agent_4,qwen3:8b,biology,medium,2,1.0,0.0,2
+agent_4,qwen3:8b,business,easy,1,1.0,,1
+agent_4,qwen3:8b,business,medium,3,1.0,0.0,3
+agent_4,qwen3:8b,chemistry,easy,3,1.5,0.7071067811865476,2
+agent_4,qwen3:8b,chemistry,hard,4,2.0,1.4142135623730951,2
+agent_4,qwen3:8b,chemistry,medium,1,1.0,,1
+agent_4,qwen3:8b,computer science,easy,1,1.0,,1
+agent_4,qwen3:8b,computer science,hard,2,1.0,0.0,2
+agent_4,qwen3:8b,computer science,medium,2,1.0,0.0,2
+agent_4,qwen3:8b,economics,easy,1,1.0,,1
+agent_4,qwen3:8b,economics,medium,3,1.5,0.7071067811865476,2
+agent_4,qwen3:8b,engineering,easy,3,1.5,0.7071067811865476,2
+agent_4,qwen3:8b,engineering,hard,5,2.5,0.7071067811865476,2
+agent_4,qwen3:8b,engineering,medium,6,3.0,2.8284271247461903,2
+agent_4,qwen3:8b,health,medium,3,3.0,,1
+agent_4,qwen3:8b,history,easy,2,1.0,0.0,2
+agent_4,qwen3:8b,history,hard,2,1.0,0.0,2
+agent_4,qwen3:8b,history,medium,1,1.0,,1
+agent_4,qwen3:8b,law,easy,1,1.0,,1
+agent_4,qwen3:8b,law,hard,3,1.0,0.0,3
+agent_4,qwen3:8b,law,medium,2,2.0,,1
+agent_4,qwen3:8b,math,easy,4,1.3333333333333333,0.5773502691896257,3
+agent_4,qwen3:8b,math,hard,2,1.0,0.0,2
+agent_4,qwen3:8b,physics,easy,1,1.0,,1
+agent_4,qwen3:8b,physics,hard,3,3.0,,1
+agent_4,qwen3:8b,physics,medium,1,1.0,,1
+agent_4,qwen3:8b,psychology,easy,2,1.0,0.0,2
+agent_4,qwen3:8b,psychology,hard,2,1.0,0.0,2
+agent_4,qwen3:8b,psychology,medium,1,1.0,,1
+agent_5,qwen3.5:9b,biology,easy,1,1.0,,1
+agent_5,qwen3.5:9b,business,easy,6,1.5,0.5773502691896257,4
+agent_5,qwen3.5:9b,business,medium,2,1.0,0.0,2
+agent_5,qwen3.5:9b,chemistry,medium,3,1.5,0.7071067811865476,2
+agent_5,qwen3.5:9b,computer science,easy,2,1.0,0.0,2
+agent_5,qwen3.5:9b,computer science,medium,4,1.0,0.0,4
+agent_5,qwen3.5:9b,economics,easy,3,1.5,0.7071067811865476,2
+agent_5,qwen3.5:9b,economics,medium,1,1.0,,1
+agent_5,qwen3.5:9b,engineering,easy,1,1.0,,1
+agent_5,qwen3.5:9b,engineering,medium,1,1.0,,1
+agent_5,qwen3.5:9b,history,easy,1,1.0,,1
+agent_5,qwen3.5:9b,history,medium,1,1.0,,1
+agent_5,qwen3.5:9b,law,easy,4,1.3333333333333333,0.5773502691896257,3
+agent_5,qwen3.5:9b,law,medium,1,1.0,,1
+agent_5,qwen3.5:9b,math,easy,4,1.0,0.0,4
+agent_5,qwen3.5:9b,philosophy,easy,1,1.0,,1
+agent_5,qwen3.5:9b,physics,easy,2,1.0,0.0,2
+agent_5,qwen3.5:9b,psychology,easy,1,1.0,,1
+agent_5,qwen3.5:9b,psychology,medium,1,1.0,,1

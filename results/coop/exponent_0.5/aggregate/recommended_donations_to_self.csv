@@ -1,0 +1,6 @@
+voter_agent_id,voter_model_name,avg_donation_to_self_recommendations,total_donation_to_self_recommendations,avg_requested_energy_to_self,total_requested_energy_to_self,n_runs
+agent_1,gemma4:e4b,0.0,0.0,0.0,0.0,5
+agent_2,nemotron-3-nano:4b,0.0,0.0,0.0,0.0,5
+agent_3,qwen3.5:4b,0.2,1.0,100.0,500.0,5
+agent_4,qwen3:8b,0.0,0.0,0.0,0.0,5
+agent_5,qwen3.5:9b,0.0,0.0,0.0,0.0,5

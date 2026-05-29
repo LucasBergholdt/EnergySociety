@@ -1,0 +1,6 @@
+voter_agent_id,voter_model_name,avg_collision_recommendation_events,total_collision_recommendation_events,avg_rounds_with_collision_recommendation,avg_excess_agents_assigned_to_colliding_jobs,n_runs
+agent_1,gemma4:e4b,0.2,1,0.2,0.2,5
+agent_2,nemotron-3-nano:4b,1.0,5,1.0,1.2,5
+agent_3,qwen3.5:4b,2.2,11,2.0,2.2,5
+agent_4,qwen3:8b,0.2,1,0.2,0.2,5
+agent_5,qwen3.5:9b,0.2,1,0.2,0.2,5

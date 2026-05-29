@@ -1,0 +1,6 @@
+agent_id,model_name,avg_rounds_active,std_rounds_active,n_runs
+agent_1,gemma4:e4b,24.4,7.700649323271382,5
+agent_2,nemotron-3-nano:4b,30.0,0.0,5
+agent_3,qwen3.5:4b,27.2,6.260990336999411,5
+agent_4,qwen3:8b,17.4,7.765307463326871,5
+agent_5,qwen3.5:9b,10.4,4.159326868617084,5

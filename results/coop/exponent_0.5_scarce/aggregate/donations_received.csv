@@ -1,0 +1,4 @@
+agent_id,model_name,avg_donations_received,std_donations_received,total_donations_received,avg_energy_received_per_run,total_energy_received,n_runs
+agent_1,gemma4:e4b,1.3333333333333333,0.5773502691896258,4,150.0,450.0,3
+agent_4,qwen3:8b,6.2,3.7682887362833544,31,1124.688,5623.4400000000005,5
+agent_5,qwen3.5:9b,5.4,1.816590212458495,27,867.854,4339.27,5

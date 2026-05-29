@@ -1,0 +1,11 @@
+experiment,agent_id,model_name,chosen action: ATTEMPT_JOB,chosen action: IDLE,chosen action: DONATE,ERROR count,jobs: easy,jobs: medium,jobs: hard
+comp,agent_1,gemma4:e4b,99%,1%,0%,0,0.6,2.8,25.8
+comp,agent_2,nemotron-3-nano:4b,97%,3%,0%,8,5.2,7.6,16.4
+comp,agent_3,qwen3.5:4b,99%,1%,1%,1,8.4,9.6,11.4
+comp,agent_4,qwen3:8b,96%,2%,0%,4,2.2,3.0,10.0
+comp,agent_5,qwen3.5:9b,98%,2%,0%,2,4.0,7.0,2.2
+coop,agent_1,gemma4:e4b,84%,0%,16%,0,0.6,2.6,18.4
+coop,agent_2,nemotron-3-nano:4b,96%,1%,1%,7,3.2,5.0,18.4
+coop,agent_3,qwen3.5:4b,89%,0%,10%,0,3.4,7.6,14.0
+coop,agent_4,qwen3:8b,89%,0%,1%,6,1.2,9.8,8.2
+coop,agent_5,qwen3.5:9b,78%,2%,0%,7,7.8,2.8,2.6

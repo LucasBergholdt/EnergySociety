@@ -1,0 +1,13 @@
+aenum
+python-dotenv
+datasets
+pydantic
+typing_extensions
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langgraph
+numpy
+pandas
+matplotlib
