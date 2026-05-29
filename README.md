@@ -1,8 +1,8 @@
 # Energy-Constrained Multi-Agent Simulation
 
-This repository contains a simulation framework for comparing competitive and cooperative behaviour in an energy-constrained multi-agent system. Agents are powered by local Ollama models, spend energy when generating tokens, choose between attempting jobs, idling, or donating energy, and receive rewards when they solve multiple-choice jobs correctly.
+This repository contains a simulation framework built via LangChain/LangGraph for comparing competitive and cooperative behaviour in an energy-constrained multi-agent system. Agents are powered by local Ollama models, spend energy when generating tokens, choose between attempting jobs, idling, or donating energy, and receive rewards when they solve multiple-choice jobs correctly.
 
-The default experiment uses questions from the MMLU-Pro-Stratified dataset and runs both a competitive (`comp`) and cooperative (`coop`) simulation.
+Experiments use questions from the MMLU-Pro-Stratified dataset and support both a competitive (`comp`) and cooperative (`coop`) simulation.
 
 ## Repository overview
 
