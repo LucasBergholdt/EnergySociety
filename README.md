@@ -8,7 +8,7 @@ Experiments use questions from the MMLU-Pro-Stratified dataset and support both 
 
 | File | Purpose |
 | --- | --- |
-| `main.py` | Main entry point. Configure experiments, agents, seeds, models, difficulty distribution, and run settings here. |
+| `main.py` | Main entry point. Configure experiments, agents, seeds, models, difficulty distribution, and run experiments here. |
 | `environment.py` | Defines the LangGraph simulation flow for competitive and cooperative experiments. |
 | `agent_middleware.py` | Defines `EnergyAgent`, structured response schemas, token/energy accounting middleware, and logging of agent phases. |
 | `prompts.py` | Contains the prompts used for decision-making, job solving, and cooperative voting. |
@@ -67,7 +67,7 @@ Each run writes `agents.json`, `config.json`, `transcript.json`, and `token_usag
 
 ## Ollama
 
-Install Ollama from <https://ollama.com>
+Install Ollama from <https://ollama.com/download>
 
 Start the Ollama server and keep it running while the experiment runs:
 
