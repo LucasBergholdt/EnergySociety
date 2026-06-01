@@ -104,9 +104,11 @@ def plot_energy_over_time_aggregate(folders: list[Path], labels: list[str], out_
             grp = sub[sub["agent_id"] == agent_id].sort_values("round_num")
             x = grp["round_num"].to_numpy(dtype=float)
             y = grp["avg_energy"].to_numpy(dtype=float)
-            sd = grp["std_energy"].to_numpy(dtype=float)
+            n_runs = grp["n_runs"].replace(0, np.nan).to_numpy(dtype=float)
+            sem = grp["std_energy"].to_numpy(dtype=float) / np.sqrt(n_runs)
+            sem = np.nan_to_num(sem, nan=0.0)
             ax.plot(x, y, marker="o", markersize=3, linewidth=1.5, label=agent_labels.get(agent_id, agent_id))
-            ax.fill_between(x, y - sd, y + sd, alpha=0.18)
+            ax.fill_between(x, y - sem, y + sem, alpha=0.18)
 
         ax.set_title(f"Mean Agent Energy over Time ({exp})")
         ax.set_ylabel("Energy")
@@ -275,9 +277,9 @@ def make_plots(aggregate_dirs: Iterable[str | Path], labels: Iterable[str], out_
 
 def main():
     root = Path(__file__).resolve().parents[1] / "results"
-    aggregate_dir1 = root / "comp_no_discussion" / "exponent_0.5" / "aggregate"
-    aggregate_dir2 = root / "coop_no_discussion" / "exponent_0.5" / "aggregate"
-    out = root / "plots" / "coop_vs_comp_no_discussion_0.5"
+    aggregate_dir1 = root / "comp_with_discussion" / "exponent_0.0" / "aggregate"
+    aggregate_dir2 = root / "coop" / "exponent_0.0" / "aggregate"
+    out = root / "plots" / "coop_vs_comp_0.0"
     make_plots([aggregate_dir1, aggregate_dir2], ["comp", "coop"], out, 12)
 
 
